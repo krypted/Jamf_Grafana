@@ -5,3 +5,5 @@ To import this json file as a dashboard, click on the Dashboard Search option an
 Select this file or paste the contents in and select a name for the dashboard.
 
 This is just a sample of a few dashboards where we've built a view for the MySQL database called Devices during a standard ETL process. 
+
+![alt text](https://github.com/krypted/Jamf_Grafana/blob/master/dashboard%20view.png)
