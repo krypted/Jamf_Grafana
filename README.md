@@ -1,4 +1,4 @@
-# Jamf_Grafana
+# Jamf Grafana Template
 
 To import this json file as a dashboard, click on the Dashboard Search option and then use the important button. 
 
